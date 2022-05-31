@@ -4,7 +4,7 @@ namespace aulapcdev
 {
     internal class Program // Thiago Kenj
     {
-        static void Main(string[] args) // Entregar até sexta 
+        static void Main(string[] args) // exercíco 2 
         {
             Console.WriteLine("Bem vindo no site do Thiago Kenj");
             Console.WriteLine("As paginas você deseja acessar?");
