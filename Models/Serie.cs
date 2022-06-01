@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace aulas_pcdev.models
+namespace AulasPCDev.Models
 {
-    internal class Serie
+    public class Serie : Item // SERIE + ITEM
     {
+        public int Temporadas { get; set; }
+        public int Emmies { get; set; }
     }
 }

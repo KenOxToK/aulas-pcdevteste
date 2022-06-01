@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace aulas_pcdev.models
+namespace AulasPCDev.Models
 {
-    internal class Filme
+    public class Filme : Item // FILME + ITEM 
     {
+        public int Duracao { get; set; } // DURAÇÃO 
+        public int QuantidadeDeOscars { get; set; } // QUANTIDADE DE OSCARS 
     }
 }

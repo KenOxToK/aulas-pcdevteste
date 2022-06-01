@@ -1,0 +1,14 @@
+C:\aulas-pcdev\aulas-pcdev\bin\Debug\netcoreapp3.1\aulas-pcdev.exe
+C:\aulas-pcdev\aulas-pcdev\bin\Debug\netcoreapp3.1\aulas-pcdev.deps.json
+C:\aulas-pcdev\aulas-pcdev\bin\Debug\netcoreapp3.1\aulas-pcdev.runtimeconfig.json
+C:\aulas-pcdev\aulas-pcdev\bin\Debug\netcoreapp3.1\aulas-pcdev.runtimeconfig.dev.json
+C:\aulas-pcdev\aulas-pcdev\bin\Debug\netcoreapp3.1\aulas-pcdev.dll
+C:\aulas-pcdev\aulas-pcdev\bin\Debug\netcoreapp3.1\aulas-pcdev.pdb
+C:\aulas-pcdev\aulas-pcdev\obj\Debug\netcoreapp3.1\aulas-pcdev.csproj.AssemblyReference.cache
+C:\aulas-pcdev\aulas-pcdev\obj\Debug\netcoreapp3.1\aulas-pcdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\aulas-pcdev\aulas-pcdev\obj\Debug\netcoreapp3.1\aulas-pcdev.AssemblyInfoInputs.cache
+C:\aulas-pcdev\aulas-pcdev\obj\Debug\netcoreapp3.1\aulas-pcdev.AssemblyInfo.cs
+C:\aulas-pcdev\aulas-pcdev\obj\Debug\netcoreapp3.1\aulas-pcdev.csproj.CoreCompileInputs.cache
+C:\aulas-pcdev\aulas-pcdev\obj\Debug\netcoreapp3.1\aulas-pcdev.dll
+C:\aulas-pcdev\aulas-pcdev\obj\Debug\netcoreapp3.1\aulas-pcdev.pdb
+C:\aulas-pcdev\aulas-pcdev\obj\Debug\netcoreapp3.1\aulas-pcdev.genruntimeconfig.cache
